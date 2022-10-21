@@ -1,0 +1,7 @@
+Dicas de Git e GitHub
+
+Git clone > pegar link do repositóprio github para o local
+após atualizar o repositorio local:
+git add . > colocar em versionamento
+git commit -m "Mensagem" criar comit local
+git pusj > enviar para nuvem 
